@@ -1,5 +1,6 @@
-# Nanodegree Engenheiro de Machine Learning
+# Nanodegree Fundamentos de Machine Learning
 # Modelo de avaliação e validação
+
 ## Projeto: Prevendo o preço de imóveis de Boston
 
 ### Instalação
